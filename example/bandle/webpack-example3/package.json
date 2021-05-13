@@ -5,14 +5,14 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build":"webpack"
+    "build": "webpack"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "lodash": "^4.17.21",
-    "webpack": "^5.36.1",
+    "webpack": "^5.36.2",
     "webpack-cli": "^4.6.0"
   }
 }
